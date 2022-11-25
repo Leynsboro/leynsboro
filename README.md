@@ -11,6 +11,13 @@
       <td style="vertical-align:bottom">Release on <a href="https://github.com/Leynsboro/TR-VPN">GitHub</a></td>
     </tr>
     </table>
+    <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Leynsboro/leynsboro/main/images/trlogo.png" width="100px"></td>
+      <td>VPN client based on openVPNdapter with a simple yet attractive interface. The development used a UIKit, MVC, Singleton, Delegates, UserDefaults and some libraries </td>
+      <td>Release on <a href="https://github.com/Leynsboro/TR-VPN">GitHub</a></td>
+    </tr>
+  </table>
 
 ## 📨 Contacts
 
