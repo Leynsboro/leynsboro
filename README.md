@@ -3,16 +3,14 @@
 #### I'm an iOS-Developer 👨🏽‍💻
 #### Currently looking for a job. See [Contacts](#contacts).
 
-<h1 align="center">🦾 Skills:</h1>
-<p align="center"> 
-  <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" width="60" height="60"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="60" height="60"/> 
- <img src="https://seeklogo.com/images/C/cocoapods-logo-45382D8A59-seeklogo.com.png?v=637914286210000000" width="60" height="60"/> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/> 
- <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" width="60" height="60"/> 
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" height="60"/> 
-
-</p>
+<h1 align="center">📱 My Apps:</h1>
+<table>
+    <tr>
+      <td width="150px"><img src="https://raw.githubusercontent.com/Leynsboro/leynsboro/main/images/trlogo.png" width="100px"></td>
+      <td style="width: 400px; vertical-align:top">VPN client based on openVPNdapter with a simple yet attractive interface. The development used a UIKit, MVC, Singleton, Delegates, UserDefaults and some libraries </td>
+      <td style="vertical-align:bottom">Release on <a href="https://github.com/Leynsboro/TR-VPN">GitHub</a></td>
+    </tr>
+    </table>
 
 ## 📨 Contacts
 
