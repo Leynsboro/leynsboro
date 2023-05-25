@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 🤙🏽 My name is Ilia Gusarov </h1>
 
-#### I'm an iOS-Developer 👨🏽‍💻
-#### Currently looking for a job. See [Contacts](#contacts).
+#### I'm a Developer 👨🏽‍💻
+#### I'm currently developing games. See <a href="https://yandex.ru/games/developer?name=Leyns%20Dev">them</a>
 
 <h1 align="center">📱 My Apps:</h1>
 <table>
